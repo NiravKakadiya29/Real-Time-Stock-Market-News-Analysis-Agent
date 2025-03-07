@@ -4,3 +4,4 @@ yfinance
 vaderSentiment
 dotenv
 openai
+yahooquery
